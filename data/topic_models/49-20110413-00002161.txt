@@ -1,0 +1,16 @@
+[Volume:671;Page:18115]
+
+
+
+JACINDA ARDERN (Labour)
+: I appreciate the chance to take a very short call on the Copyright (Infringing File Sharing) Amendment Bill. This call is directed at the Minister in the chair, the Minister for the Environment. I would like his response to a particular issue. I have been following some of the social media traffic in relation to the bill—and people are keenly watching the debate in the House tonight—and I am seeing two pieces of feedback coming through. The first is there seems to be an adverse reaction to the Minister’s references to Dave Dobbyn, and the second is about an incredibly important point, and that is the definition of “file sharing” within the bill.
+
+Simon Bridges: They don’t sing “Loyal” in the Labour Party at the moment.
+
+JACINDA ARDERN: The member may jest, but I have an important point to raise. Originally in the bill the definition of “file sharing” stated: “ ‘file sharing’ is where material—(a) is downloaded from the Internet; or (b) is made available on the Internet by a user in a form in which the material may be downloaded by 1 or more other users; or (c) is transferred, directly or indirectly, via the Internet from one user to another user”. That was the original definition of “file sharing”. Under that definition everyone who has ever used the Internet probably, by default, falls under the definition of having shared files.
+But we do, of course, have a new definition. After reading the InternetNZ submission, I have to say the new definition of “file sharing” is very similar—other than the omission of the word “protocol”—to the original suggestion from InternetNZ: “file sharing is where—(a) material is uploaded via, or downloaded from, the Internet using an application or network that enables the simultaneous sharing of material between multiple users; and (b) uploading and downloading may, but need not, occur at the same time”. As I say, it is a very similar definition to that worked through by InternetNZ—with some caveats and some trepidation, I have to say. InternetNZ was of the view that
+ more work needed to be done on this area, but I imagine that, for the sake of expediency, InternetNZ made a recommendation during its submission.
+
+I would like to request the Minister, given that
+ Hansard will be used as a record going forward in the way that this bill is applied in practical terms, to give the Committee his view of the definition of “file sharing”, how he sees that definition being applied once this legislation is enacted and becomes law. For instance, does he believe that it includes an attachment to an email? How far does his view of this definition go? I think clarification from the Minister would be helpful for this debate. I am not going to give my interpretation, because, of course, as a Government Minister his definition on record in
+ Hansard will be much more important going forward. I look forward to hearing the Minister’s contribution on that issue.
